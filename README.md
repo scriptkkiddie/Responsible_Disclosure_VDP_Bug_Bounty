@@ -2,6 +2,12 @@
 
 A curated list of Public Bug Bounty, Responsible Disclosure, Vulnerability Disclosure Programs sourced from Community &amp; Internet.
 
+## Submit Programs
+
+_Create issue from [here](https://github.com/ScriptKKiddie/Responsible_Disclosure_VDP_Bug_Bounty/issues/new?assignees=ScriptKKiddie&labels=documentation&template=program-submission.md&title=Program+Name+here)_
+
+
+
 ## Responsible Disclosure / VDP
 
 Program | Links | About
