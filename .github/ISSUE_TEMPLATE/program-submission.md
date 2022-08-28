@@ -1,9 +1,9 @@
 ---
 name: Program Submission
 about: Submit the Bug Bounty, Responsible Disclosure, VDPs here
-title: Bug Bounty Platform
+title: Program Name here
 labels: documentation
-assignees: ''
+assignees: ScriptKKiddie
 
 ---
 
