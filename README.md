@@ -1,4 +1,4 @@
-# Responsible_Disclosure_VDP_Bug_Bounty
+# Responsible Disclosure, VDP & Bug Bounty
 
 A curated list of Public Bug Bounty, Responsible Disclosure, Vulnerability Disclosure Programs sourced from Community &amp; Internet.
 
